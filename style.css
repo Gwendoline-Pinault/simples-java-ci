@@ -1,3 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100dvw;
+  height: 100dvh;
+  padding: 10px;
+}
+
 h1 {
   font-weight: bold;
   font-size: x-large;
