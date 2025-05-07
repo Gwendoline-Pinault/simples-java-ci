@@ -1,2 +1,3 @@
 # Simples Java CI
-![Java CI](https://github.com/Gwendoline-Pinault/simples-java-ci/actions/workflows/ci.yml/badge.svg)
+
+Projet école d'intégration continue.
