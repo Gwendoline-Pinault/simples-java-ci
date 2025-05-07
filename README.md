@@ -1,0 +1,2 @@
+# Simples Java CI
+[![Java CI](https://github.com/Gwendoline-Pinault/simples-java-ci/actions/workflows/ci.yml/badge.svg?event=workflow_run)](https://github.com/Gwendoline-Pinault/simples-java-ci/actions/workflows/ci.yml)
