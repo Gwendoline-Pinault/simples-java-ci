@@ -5,11 +5,24 @@
 body {
   width: 100dvw;
   height: 100dvh;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(238, 238, 238);
+}
+
+header {
+  width: 100%;
+  background-color: rgb(206, 228, 247);
   padding: 10px;
 }
 
 h1 {
   font-weight: bold;
   font-size: x-large;
-  color: blue;
+  color: rgb(33, 66, 176);
+  width: 100%;
+  text-align: center;
 }
