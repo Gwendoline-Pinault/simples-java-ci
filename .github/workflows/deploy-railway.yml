@@ -9,8 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/railwayapp/cli:latest
     env:
-      SVC_ID: java
-      RAILWAY_TOKEN: ${{ secrets.JAVA }}
+      SVC_ID: ea509f1d-3fde-4048-b45b-08b5147035da
+      RAILWAY_TOKEN: ${{ secrets.RAILWAY_PROJECT_TOKEN }}
+      
     steps:
       - uses: actions/checkout@v3
       - run: railway up --service=${{ env.SVC_ID }}
