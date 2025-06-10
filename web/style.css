@@ -26,3 +26,14 @@ h1 {
   width: 100%;
   text-align: center;
 }
+
+a {
+  padding: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(83, 128, 254);
+}
+
+a:hover {
+  color: rgb(17, 81, 255);
+}
